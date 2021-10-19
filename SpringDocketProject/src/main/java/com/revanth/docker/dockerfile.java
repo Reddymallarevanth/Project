@@ -9,6 +9,6 @@ public class dockerfile {
 	
 	@GetMapping("/hello")
 	public String hello(){
-		return "Welcome to DOCKER PROJECT";
+		return "Welcome to DOCKER PROJECT Revanth";
 	}
 }
